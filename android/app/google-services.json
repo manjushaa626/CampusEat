@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218829951210",
+    "project_id": "campuseat-23b1d",
+    "storage_bucket": "campuseat-23b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218829951210:android:b6539f235942c49a5dc793",
+        "android_client_info": {
+          "package_name": "com.example.campuseat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAPEIFLctaqtomAu6-XBeU7MqUs1G04o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
